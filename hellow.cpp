@@ -5,7 +5,10 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-  cout << "Hellow world!"; //output << "string"
-  return 0;
+int main() // _Start
+{
+  // output << "string"
+  cout << "Hellow world!";
+
+  return 0; // _End
 }
