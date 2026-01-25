@@ -1,14 +1,13 @@
 // Author : velan
-// Date : Jan-1-26
-// Description : Learning C++
+// Date : Jan-1-26 at 11:00 am Indian Standard Time
+// Description : Learning C++ at first
 
-#include <iostream>
+#include <iostream> // Header for I/O
 using namespace std;
 
 int main() // _Start
 {
-  // output << "string"
-  cout << "Hellow world!";
+  cout << "Hellow world!"; // Show text in console as Output
 
   return 0; // _End
 }
