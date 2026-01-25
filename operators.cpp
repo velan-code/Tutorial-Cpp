@@ -108,7 +108,8 @@ int main() // _Start
     cout << "b is the  smallest number " << endl;
   }
   if (!false) {
-    cout << "not is change the true as false, and false as true" << endl;
+    cout << "NOT operator is change the true as false, and false as true"
+         << endl;
   }
 
   // 5. Bitwise Operator
